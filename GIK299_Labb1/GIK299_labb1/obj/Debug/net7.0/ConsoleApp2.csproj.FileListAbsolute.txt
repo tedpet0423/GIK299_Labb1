@@ -1,0 +1,15 @@
+/Users/tedpettersson/Desktop/Skola/GIK299/Solution1/ConsoleApp2/bin/Debug/net7.0/ConsoleApp2
+/Users/tedpettersson/Desktop/Skola/GIK299/Solution1/ConsoleApp2/bin/Debug/net7.0/ConsoleApp2.deps.json
+/Users/tedpettersson/Desktop/Skola/GIK299/Solution1/ConsoleApp2/bin/Debug/net7.0/ConsoleApp2.runtimeconfig.json
+/Users/tedpettersson/Desktop/Skola/GIK299/Solution1/ConsoleApp2/bin/Debug/net7.0/ConsoleApp2.dll
+/Users/tedpettersson/Desktop/Skola/GIK299/Solution1/ConsoleApp2/bin/Debug/net7.0/ConsoleApp2.pdb
+/Users/tedpettersson/Desktop/Skola/GIK299/Solution1/ConsoleApp2/obj/Debug/net7.0/ConsoleApp2.csproj.AssemblyReference.cache
+/Users/tedpettersson/Desktop/Skola/GIK299/Solution1/ConsoleApp2/obj/Debug/net7.0/ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tedpettersson/Desktop/Skola/GIK299/Solution1/ConsoleApp2/obj/Debug/net7.0/ConsoleApp2.AssemblyInfoInputs.cache
+/Users/tedpettersson/Desktop/Skola/GIK299/Solution1/ConsoleApp2/obj/Debug/net7.0/ConsoleApp2.AssemblyInfo.cs
+/Users/tedpettersson/Desktop/Skola/GIK299/Solution1/ConsoleApp2/obj/Debug/net7.0/ConsoleApp2.csproj.CoreCompileInputs.cache
+/Users/tedpettersson/Desktop/Skola/GIK299/Solution1/ConsoleApp2/obj/Debug/net7.0/ConsoleApp2.dll
+/Users/tedpettersson/Desktop/Skola/GIK299/Solution1/ConsoleApp2/obj/Debug/net7.0/refint/ConsoleApp2.dll
+/Users/tedpettersson/Desktop/Skola/GIK299/Solution1/ConsoleApp2/obj/Debug/net7.0/ConsoleApp2.pdb
+/Users/tedpettersson/Desktop/Skola/GIK299/Solution1/ConsoleApp2/obj/Debug/net7.0/ConsoleApp2.genruntimeconfig.cache
+/Users/tedpettersson/Desktop/Skola/GIK299/Solution1/ConsoleApp2/obj/Debug/net7.0/ref/ConsoleApp2.dll
